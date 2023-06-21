@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Responsive-Word-Counternpm%20run%20deploy/static/css/main.5128a00c.css",
+    "main.js": "/Responsive-Word-Counternpm%20run%20deploy/static/js/main.97a8ce13.js",
+    "static/js/787.3a039655.chunk.js": "/Responsive-Word-Counternpm%20run%20deploy/static/js/787.3a039655.chunk.js",
+    "index.html": "/Responsive-Word-Counternpm%20run%20deploy/index.html",
+    "main.5128a00c.css.map": "/Responsive-Word-Counternpm%20run%20deploy/static/css/main.5128a00c.css.map",
+    "main.97a8ce13.js.map": "/Responsive-Word-Counternpm%20run%20deploy/static/js/main.97a8ce13.js.map",
+    "787.3a039655.chunk.js.map": "/Responsive-Word-Counternpm%20run%20deploy/static/js/787.3a039655.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5128a00c.css",
+    "static/js/main.97a8ce13.js"
+  ]
+}
